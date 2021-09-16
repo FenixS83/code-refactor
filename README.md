@@ -24,3 +24,5 @@ Prior to this exercise I was only really familiar with non-semantic tags.  By co
 
 ## Full site address
 https://fenixs83.github.io/code-refactor/
+
+Thank you so much for checking out my project! If you have any suggestions on how to make it better, please feel free to submit a pull request. 
