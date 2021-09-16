@@ -12,7 +12,7 @@
 ### Overview 
 Refactoring a working site to streamline code
 
-## Explanation of task
+### Explanation of task
 I have learned that every good developer needs to know how to write semantic code as well as be able to refactor an already existing code. To that end I have taken a working site that previously used non-semantic tags and I have refactored it to use semantic tags.  The overall functionality of the site has remained the same. 
 
 ### Benefit of refactoring
