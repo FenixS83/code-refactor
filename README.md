@@ -5,7 +5,8 @@
 2. Explanation of task
 3. Benefit of refactoring
 4. Peronsal benefit of refactoring
-
+5. Screenshot of refactored website
+6. Link to live website
 
 
 ## Overview 
@@ -20,6 +21,8 @@ The original code was very well written but it contained only non-semantic tags.
 ## Personal benefit from refactoring
 Prior to this exercise I was only really familiar with non-semantic tags.  By completing this task I have become far more familiar with how to write clear and concise code. In the future I would like to revisit this code and expand upon it as my knowledge level increases.  
 
+
+## Screenshot of refactored site
 ![The Horiseon website includes navigation links, images, and sections with various topics.](./assets/images/horiseon_website_screenshot.jpeg)
 
 ## Full site address
