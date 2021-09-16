@@ -48,7 +48,7 @@ p {
     font-size: 16px;
 }
 
-figure {
+.hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -67,7 +67,7 @@ figure {
     margin-left: 25px;
 }
 
-section {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -123,7 +123,7 @@ section {
     max-width: 150px;
 }
 
-article {
+.search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
