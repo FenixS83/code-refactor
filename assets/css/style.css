@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* These attributes effects the large central image styles */
 figure {
     height: 800px;
     width: 100%;
