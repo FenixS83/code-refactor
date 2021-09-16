@@ -1,13 +1,16 @@
+/* This style applies to everything */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*this style applies to the body*/
 body {
     background-color: #d9dcd6;
 }
 
+/* These header attributes effect contents of the header styles */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,7 +23,6 @@ header h1 {
     font-size: 48px;
     color: #d9dcd6;
 }
-
 
 header nav {
     padding-top: 15px;
@@ -48,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -73,6 +75,7 @@ main {
     margin-left: 20px;
 }
 
+/* These article and aside attributes effect the vertical box that contains "Lead Generation", "Brand Awareness" and "Cost Managment" */
 article {
     margin-right: 20px;
     padding: 20px;
@@ -101,6 +104,7 @@ aside img {
     max-width: 150px;
 }
 
+/* These section attributes are for the three major sections entitled "Search Engine Optimization", "Online Reputation Management" and "Social Media Marketing" */
 section {
     margin-bottom: 20px;
     padding: 50px;
