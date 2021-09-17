@@ -4,7 +4,7 @@
 1. Overview
 2. Explanation of task
 3. Benefit of refactoring
-4. Peronsal benefit of refactoring
+4. Personal benefit of refactoring
 5. Screenshot of refactored website
 6. Link to live website
 
